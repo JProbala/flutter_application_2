@@ -148,3 +148,12 @@
 {"logTime": "1028/193413", "correlationVector":"GFFHge2aE+z0RdSfYplkid","action":"Normal GetUpdate request", "result":""}
 {"logTime": "1028/193414", "correlationVector":"GFFHge2aE+z0RdSfYplkid.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58|113", "server":"BN3PEPF0000427F"}}
 {"logTime": "1028/193414", "correlationVector":"GFFHge2aE+z0RdSfYplkid.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
+{"logTime": "1029/151406", "correlationVector":"gH2MC3rUgDtuTkEbcSoLgt.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "1029/151408", "correlationVector":"VDMpGCBHDOxlMYgeIKcWQH.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58|113", "server":"BY3PEPF0000DAE2"}}
+{"logTime": "1029/151410", "correlationVector":"VDMpGCBHDOxlMYgeIKcWQH.2","action":"AAD.Mip.Unpack", "result":"Success", "context":MIP_CLOUD_COMMERCIAL:Success}
+{"logTime": "1029/151410", "correlationVector":"VDMpGCBHDOxlMYgeIKcWQH.3","action":"AAD.GetKeyResponse", "result":"Success", "context":Keys=1.LastKeyStatus=Normal. 2021-08-19 08:57:23 -04.State=None}
+{"logTime": "1029/151410", "correlationVector":"VDMpGCBHDOxlMYgeIKcWQH","action":"Initial GetUpdates", "result":""}
+{"logTime": "1029/151410", "correlationVector":"VDMpGCBHDOxlMYgeIKcWQH.4","action":"GetUpdates Response", "result":"SYNCER_OK"}
+{"logTime": "1029/151410", "correlationVector":"pLcYbJKZtpd8AvFjyN1hEH","action":"Normal GetUpdate request", "result":""}
+{"logTime": "1029/151410", "correlationVector":"pLcYbJKZtpd8AvFjyN1hEH.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58|113", "server":"BY3PEPF0000DAE2"}}
+{"logTime": "1029/151410", "correlationVector":"pLcYbJKZtpd8AvFjyN1hEH.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
