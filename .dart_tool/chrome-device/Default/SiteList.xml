@@ -1,0 +1,2011 @@
+<?xml version="1.0"?>
+<site-list version="103">
+ <site url="10.121.9.247">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.121.98.4">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.125.156.83">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.125.156.83/maximo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.131.245.195">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.131.245.195/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.19.3.171">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.19.3.173">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.19.3.174">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.2.145.100">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.2.145.102">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.2.145.98">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.2.69.194">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.2.69.195">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.36.73.49">
+  <compat-mode>IE5</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.36.73.50">
+  <compat-mode>IE5</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.14">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.142">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.169">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.18">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.23">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.40">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.44">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.5">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.7">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.8">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="10.97.111.9">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="210.175.132.155">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="210.175.132.155/stage_v">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="211.125.225.125">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="211.125.225.125/adxi">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="218.242.131.185">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="218.242.131.185/jzzsb">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a-kgqsm69.asia.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a-kgqsm69.asia.jci.com/synergy/docs">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a-kgqsm79.asia.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a-kgqsm79.asia.jci.com/boe/bi">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a300m541.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a300m723.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a300m723.jci.com/boe/opendocument">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a300m723.jci.com/opendocument">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700m094.ag.eu.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700m094.ag.eu.jci.com/balance_fluxx/cat_balance_fluxx.asp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700m094.ag.eu.jci.com/ic_ebalance/ic_ebalance.asp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700m094.ag.eu.jci.com/mpr/main.asp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700m095.ag.eu.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700m095.ag.eu.jci.com/balance_fluxx/cat_balance_fluxx.asp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700m095.ag.eu.jci.com/ic_ebalance/ic_ebalance.asp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700m095.ag.eu.jci.com/mpr/main.asp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700s196.ag.eu.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700s196.ag.eu.jci.com/sap/bc/nwbc">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700s948.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="a700s948.jci.com/webdynpro/resources/globalsac.ae.jci.com/supplierac_portal/jci_supplier_add_change_portal">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="adtiebsdev.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="adtiebsprod.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="adtiebsuat.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="adtiprodconf.johnsoncontrols.com:8001">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/batchupload/pages/welcome.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/bbpbess">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/bbpweb">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/continuousmonitoring/cmadmin.html">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/continuousmonitoring/continuousmonitoring.html">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/freightaccrual">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/gpsweb">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/ituas/admin/jcisystemadmincontroller_loadsearch.action">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/ituas/create/index.action">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/ituas/notes/notes.action">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ag.johnsoncontrols.com/ituas/update/updateperson.action">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/batchupload/pages/welcome.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/bbpbess">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/bbpenggweb/bbpenggweb.html">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/bbpweb">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/continuousmonitoring/cmadmin.html">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/continuousmonitoring/continuousmonitoring.html">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/freightaccrual">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/gpsweb">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/irisae">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/ituas/admin/jcisystemadmincontroller_loadsearch.action">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/ituas/create/index.action">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/ituas/notes/notes.action">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="agqa.johnsoncontrols.com/ituas/update/updateperson.action">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="arbue1ap00030.lat.tyc.local:8015">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="arbue1ap00031.lat.tyc.local:8035">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="arm.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="arm.jci.com:19000/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bbi.simplexgrinnell.ia">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bct1web15/cetransmit/cetransmit.asp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="biz.honda.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="biz.honda.co.jp/sni10/tp0002.do">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="biz.jnx.honda.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="biz.jnx.honda.co.jp/ipt10/s01cm/iptcm015.do">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="boprodxi.ag.na.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="boprodxi.ag.na.jci.com/infoviewapp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bpcif.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="bpcif.johnsoncontrols.com/osoft/landing.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="c201m358">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="c201m358/hbrlauncher/hbrlogon.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="c201m406.cg.na.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="c9324s130.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="c9324s130.jci.com/service_enu/start.swe">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="c9324s139.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="c9324s139.jci.com/service_enu/start.swe">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="cadjuju.hayatele.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="collaborate.na.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="commonflow-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="commonflow.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="customs.mobis.co.kr">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="customs.mobis.co.kr/intro/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="dev-vendavo.clarios.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="dev-vendavo.clarios.com/vendavo/profitanalyzer">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="dev-vsfdc.clarios.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="dev-vsfdc.clarios.com/vendavo/profitanalyzer">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="dev.identitymanager.jci.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="dev.identitymanager.tyco.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="devsfdc.powersolutions.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="devsfdc.powersolutions.johnsoncontrols.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="drm.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebs.prod.ia:4443">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebs.uat.ia:4446">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebscot20.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebscot30.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebsfed10.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebsfep10.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebsfet10.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebsfrd11.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebsfrd8.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebsfrd9.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebsfrt3.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebudget.ag.eu.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ebudget.ag.eu.jci.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eccp1.yfjci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eccp1.yfjci.com/irj/portal">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="edilogin.hayatele.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="edilogin.hayatele.co.jp/cleartrust/ct_logon_jasjis.html">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="edx3.calsonickansei.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="edx3.calsonickansei.co.jp/spocket">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eip-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eip.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eip.tw.jci-hitachi.com/cust">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eip.tw.jci-hitachi.com/doa">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eipe.imercer.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eipe.imercer.com/pages/positionevaluation/positionevaluationlist.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="eipe.imercer.com/pages/public/login.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="epic-qa.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="epic-shenyang.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="epmprod.tyco.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="epmqa.tyco.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="esaleow.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="esaleow.tw.jci-hitachi.com:90">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="esales-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="essbasep">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="essbasep/aps/smartview">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="essbasep.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="essbasep.jci.com/aps/smartview">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="essbasep.jci.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="essbaseq">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="essbaseq/aps/smartview">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="essbaseq.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="essbaseq.jci.com/aps/smartview">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="essbaseq.jci.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="euobinprd.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="euobinprd.johnsoncontrols.com/analytics">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="fdm.adient.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="fdm.adient.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="fdmdev.adient.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="fdmdev.adient.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="fdmqa.adient.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="fdmqa.adient.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gems.corp.na.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="globalar.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="globalar.jci.com/arsys/forms/globalar.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="gsn.honda.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="happdw-ph.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="happeip-ph.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="happweb.ph.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="harmony.tachi-s.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfm.adient.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfm.adient.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfm.adient.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfm.adient.com/workspace/smartviewproviders">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfm.tyco.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfmdev.adient.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfmdev.adient.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfmdev.adient.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfmdev.adient.com/workspace/smartviewproviders">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfmqa.adient.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfmqa.adient.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfmqa.adient.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hfmqa.adient.com/workspace/smartviewproviders">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hreip-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hreip.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hscp.hondacarindia.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hscp.hondacarindia.com/hscp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hsv.adient.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hsv.adient.com/hfmofficeprovider/hfmofficeprovider.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hsvdev.adient.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hsvdev.adient.com/hfmofficeprovider/hfmofficeprovider.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hsvqa.adient.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hsvqa.adient.com/hfmofficeprovider/hfmofficeprovider.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="hyundai-motor.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="identitymanager-t.jci.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="identitymanager.jci.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="identitymanager.jcidev.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="identitymanager.jciqa.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="identitymanager.tyco.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="impact.jnx.honda.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="impact.jnx.honda.co.jp/index.html">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="itsr.go.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j051m914.go.johnsoncontrols.com">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201m197.corp.na.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mb01.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mb02.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mb03.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mb06.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mb07.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mb08.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mb09.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mb10.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mb27.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mc44.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mc45.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mc59.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mc60.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mc61.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mc77.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mc78.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mc79.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mc80.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mj05.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mj05.jci.com/workspace">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mj05.jci.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mj06.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="j201mj06.jci.com/workspace">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="jci--pt2.cs14.my.salesforce.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="johnsoncontrols.ods.trintech.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="johnsoncontrols.ods.trintech.com/anet">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="johnsoncontrols.webex.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="johnsoncontrols.webex.com/media/redir">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="kia.co.kr">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="lntecc.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="loadcalc-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="loadcalc.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mailbox.jp.gdx-sys.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mailbox.jp.toyota-edc.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mailbox.jp.toyota-edc.com/php-bin/core">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mdsl.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="mxmex1ap00031.lat.tyc.local:8015">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="nxgen.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ofdm.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ohfm.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ohsv.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="otsprod.tycois.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="otsprod.tycois.com/forms/frmservlet">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="otstest.tycois.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="part-dc.adm.tec.toyota.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="part-dc.adm.tec.toyota.co.jp/php/login_tdc.php">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="partner-s3.hyundai-motor.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="partner-vpnh.hyundai-motor.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ppm.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ppm.jci.com/niku/nu">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-dev-logility.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-dev-logility.jci.com/logility80">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-dev-vendavo.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-dev-vendavo.jci.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-dev-vendavo.jci.com/vendavo/profitanalyzer">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-dev2-vendavo.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-dev2-vendavo.jci.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-logility.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-logility.jci.com/logility80">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-qa-bi-analysis.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-uat-vendavo.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-uat-vendavo.jci.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-uat2-vendavo.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-uat2-vendavo.jci.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-uat2-vendavo.jci.com/vendavo/profitanalyzer">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-vendavo.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-vendavo.jci.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-vendavo.jci.com/vendavo/profitanalyzer">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-vendavo2.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ps-vendavo2.jci.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="psmexdev.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="psmexprod.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="psmextest.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="pws.simplexgrinnell.ia">
+  <compat-mode>IE7Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="rpms.renaultsamsungm.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="rpms.renaultsamsungm.com/rpms">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="rsad.go.johnsoncontrols.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="rsap.go.johnsoncontrols.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="rsaq.go.johnsoncontrols.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m007.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m007.autoexpr.com/hfm/websymphony/global/displayadminmenu.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m007.autoexpr.com/hfm/websymphony/global/displaymenu.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m007.autoexpr.com/hfmofficeprovider/hfmofficeprovider.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m008.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m008.autoexpr.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m008.autoexpr.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m008.autoexpr.com/workspace/smartviewproviders">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m010.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m010.autoexpr.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m011.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m011.autoexpr.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m012.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m012.autoexpr.com/console">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m012.autoexpr.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m012.autoexpr.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m012.autoexpr.com/workspace/smartviewproviders">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m013.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m013.autoexpr.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m013.autoexpr.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m013.autoexpr.com/workspace/smartviewproviders">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m018.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m018.autoexpr.com/hfm/websymphony/global/displayadminmenu.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m018.autoexpr.com/hfm/websymphony/global/displaymenu.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m018.autoexpr.com/hfmofficeprovider/hfmofficeprovider.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m019.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m019.autoexpr.com/hfmofficeprovider/hfmofficeprovider.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m025.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m025.autoexpr.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m026.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m026.autoexpr.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m027.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m027.autoexpr.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m027.autoexpr.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m027.autoexpr.com/workspace/smartviewproviders">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m028.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m028.autoexpr.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m028.autoexpr.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m028.autoexpr.com/workspace/smartviewproviders">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m036.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m036.autoexpr.com/hfm/websymphony/global/displayadminmenu.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m036.autoexpr.com/hfm/websymphony/global/displaymenu.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m036.autoexpr.com/hfmofficeprovider/hfmofficeprovider.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m037.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m037.autoexpr.com/hfmofficeprovider/hfmofficeprovider.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m041.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m041.autoexpr.com/mdm_web">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m301.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s021m301.autoexpr.com/hyperionfdm">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="s0921m012.autoexpr.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="salesflow-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="salesflow.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="scm-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="scm.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="scm.tw.jci-hitachi.com:8189">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="scmdmz-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="scmdmz.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sdtrpt.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="serviceweb-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="serviceweb.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sfdc.powersolutions.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sfdc.powersolutions.johnsoncontrols.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="share.recaro-automotive.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="simplexgrinnell.ia">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="simplexgrinnell.net">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sip-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="sip.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="smile.renaultsamsungm.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="smile.renaultsamsungm.com/rscs">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="spin.mobis.co.kr">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="srm.inservices.fiapl.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="srm.inservices.fiapl.com/irj/portal">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="srmportal.yfjci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="srmportal.yfjci.com/irj/portal">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="staging.sdtrpt.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="suppliers.renault.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="suppliers.renault.com/anpqpen/anpqp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="support.industrysoftware.automation.siemens.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="support.microsoft.com/en-us/help/17621/internet-explorer-downloads">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="test-vie.wallmedien-mall.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="timeentry.ia">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tircap46.cfsad.com:8000">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tircap46.cfsad.com:8002">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tircwb30.cfsad.com:7778">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tircwb30.cfsad.com:7779">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tircwb31.cfsad.com:8000">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tircwb33.cfsad.com:8000">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tircwb36.cfsad.com:7778">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tircwb36.cfsad.com:7779">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ts-home2.stnd.toyota.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ts-home2.stnd.toyota.co.jp/es2/ts_kensaku.main">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tstechdm.tstech.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="tstechdm.tstech.co.jp/tps/cgi-bin/login.cgi">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uat-vendavo.clarios.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uat-vendavo.clarios.com/vendavo/profitanalyzer">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uat-vsfdc.clarios.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uat-vsfdc.clarios.com/vendavo/profitanalyzer">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uat.identitymanager.jci.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uat.identitymanager.tyco.com">
+  <compat-mode>IE10</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uatsfdc.powersolutions.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uatsfdc.powersolutions.johnsoncontrols.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="ultimus1.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur2apad7028.tycois.com:7778">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur2apaf7036.tycois.com:4445">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur2apaf7036.tycois.com:4447">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur2apaf7037.tycois.com:4446">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur2apaf7037.tycois.com:4453">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur2apaf7037.tycois.com:8001">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur2apap7002.tycois.com:4443">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur2apap7008.tycois.com:7778">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur2apwp8116.cfsad.com/default.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur3apwp0290.cfsad.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur3apwp0290.cfsad.com/drm-web-client/logon.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="usaur3apwu0202.cfsad.com/workspace/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1ap00132:8080">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1apld0025.dev.local:8005">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1apld0062.sg.sgna.simplexgrinnell.net:8003">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1aplp0051.sg.sgna.simplexgrinnell.net:8020">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1aplt0035.dev.local:8009">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1aplt0042.sg.sgna.simplexgrinnell.net:8002">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1aplt0059.dev.local:8009">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1aplu0070.sg.sgna.simplexgrinnell.net:8003">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1wb00003/adminportalecp/usersandsecurity/setadministrationlogin.aspx">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1wb00003:89/eetadminportal/login.aspx">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1wb00066/deficiencytrackingidq/default.aspx">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1wb00066/deficiencytrackingui/webforms/homepage.aspx">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1wb00067/deficiencytrackingidq/default.aspx">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="uswmi1wb00067/deficiencytrackingui/webforms/homepage.aspx">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="van.mobis.co.kr">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="vendavo.clarios.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="vendavo.clarios.com/vendavo/profitanalyzer">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="vendorportal.simplexgrinnell.com">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="vpacs-jp.qj.toyota.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="vpacs-jp.qj.toyota.co.jp/vpacs/login.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="vpn.zhonghuacar.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="vsfdc.clarios.com/vendavo">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="vsfdc.clarios.com/vendavo/profitanalyzer">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="w3.ag.eu.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="w3.ag.eu.jci.com/hrdatabase/ccr/default.asp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="wallmedien-mall.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="wcdev.cg.na.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="wcqa.cg.na.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="wdes.renaultsamsungm.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="wdes.renaultsamsungm.com/index.jsp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="webapp.renaultsamsungm.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="webapp.renaultsamsungm.com/cback/indexlogin.j%eb%84%a4">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="webapp.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="webservicebaan6-tw.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="webservicebaan6-tw.jci.com:8911">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="webservicebaan6.tw.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="webservicebaan6.tw.jci-hitachi.com:8911">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="wiptool.simplexgrinnell.ia/wiptool/content/general/home.aspx">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="workerdb-ph.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="workerdb.ph.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.1stedi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.altairalliance.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.altairhyperworks.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.at.toyota.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.baostar.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.dwp.bmw-brilliance.cn">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.golotos.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.hmmcportal.cz">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.hmmcportal.cz/irj/portal">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.hyperworksalliance.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.jnx.nissan.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.jnx.nissan.co.jp/nesnem2/sssext/supplier/default.asp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.kmsportal.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.lntecc.com/eiplogin.aspx">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.scm-autech.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.scm-autech.jp/maker">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.tec-ease.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www.tec-ease.com/johnsoncontrols">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www2.develop.subaru-fhi.co.jp">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www2.develop.subaru-fhi.co.jp/16sjk_w">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www4.chizaibu.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="www4.chizaibu.com/atms031101_s/servlet/piase.login.authentification">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="xa-remote.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="xenapp.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="yfjcsapysp.asia.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="yfjcsrmep01.asia.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="yfjcsrmep01.asia.jci.com/irj/portal">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="yfjcsrmep02.asia.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="yfjcsrmep02.asia.jci.com/irj/portal">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://asis.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://bbi.simplexgrinnell.ia">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://c051mc06.go.johnsoncontrols.com">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://c0919s007.go.johnsoncontrols.com">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://c201m539.go.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://c201m566.go.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://c3293m029">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://c3293m246.go.johnsoncontrols.com:8080">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://crm.simplexgrinnell.ia">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://devdmzap.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://edi.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://ofdmdev.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://ofdmqa.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://ohfmqa.jci.com:19000">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://ohssdev.jci.com:19000">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://piski.cg.eu.jci.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://safetynet">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://safetynet/app_pcn">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://spc071082:8080">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://uatasis.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://uatedi.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://www.shimizu.hitachi-ap.co.jp:8080">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="http://www12.shimizu.hitachi-ap.co.jp:8080">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="https://bbi.simplexgrinnell.ia">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="https://crm.simplexgrinnell.ia">
+  <compat-mode>IE9</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="https://jci.jp-intraqa.johnsoncontrols.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="https://qlikviewtest.europe.tycofs.com">
+  <compat-mode>IE11</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+ <site url="https://smz.jci-hitachi.com">
+  <compat-mode>IE8Enterprise</compat-mode>
+  <open-in>IE11</open-in>
+ </site>
+</site-list>

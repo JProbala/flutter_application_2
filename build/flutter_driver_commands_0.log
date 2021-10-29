@@ -1,0 +1,245 @@
+2021-10-08 15:10:38.197989 >>> {command: request_data, timeout: 1200000}
+2021-10-08 15:10:40.849791 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-08 15:15:38.436778 >>> {command: request_data, timeout: 1200000}
+2021-10-08 15:15:42.646885 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-08 15:17:12.424430 >>> {command: request_data, timeout: 1200000}
+2021-10-08 15:17:18.647231 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-08 15:18:56.109497 >>> {command: request_data, timeout: 1200000}
+2021-10-08 15:18:59.867179 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-08 15:37:51.626642 >>> {command: request_data, timeout: 1200000}
+2021-10-08 15:41:41.081794 >>> {command: request_data, timeout: 1200000}
+2021-10-08 16:04:03.985315 >>> {command: request_data, timeout: 1200000}
+2021-10-08 16:04:07.944339 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-08 16:45:19.953860 >>> {command: request_data, timeout: 1200000}
+2021-10-08 16:45:22.971020 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-08 16:51:33.459434 >>> {command: request_data, timeout: 1200000}
+2021-10-08 16:51:38.644910 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-08 16:59:09.303843 >>> {command: request_data, timeout: 1200000}
+2021-10-08 16:59:14.666885 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-08 17:05:29.939800 >>> {command: request_data, timeout: 1200000}
+2021-10-08 17:05:33.943934 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-10 23:01:49.302369 >>> {command: get_health}
+2021-10-10 23:01:49.476297 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-10 23:01:49.489918 >>> {command: request_data, timeout: 1200000}
+2021-10-10 23:01:55.022788 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 08:18:31.885471 >>> {command: get_health}
+2021-10-11 08:18:31.979890 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 08:18:31.994323 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:18:36.269061 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 08:20:59.060079 >>> {command: get_health}
+2021-10-11 08:20:59.158831 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 08:20:59.169874 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:21:02.477614 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 08:26:15.165831 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:26:19.907904 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 08:30:46.129972 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:30:49.371365 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 08:34:01.484299 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:34:06.699817 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 08:36:23.093775 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:36:26.386729 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 08:37:49.561173 >>> {command: get_health}
+2021-10-11 08:37:49.745855 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 08:37:49.764673 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:37:53.790532 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 08:38:31.937734 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:38:35.838077 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 08:41:31.845342 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:41:36.762630 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 08:42:57.304210 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:43:01.080734 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 08:44:35.506578 >>> {command: get_health}
+2021-10-11 08:44:35.742579 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 08:44:35.805216 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:44:41.212671 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 08:45:38.065748 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:45:43.068792 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 08:45:58.198156 >>> {command: request_data, timeout: 1200000}
+2021-10-11 08:46:03.595878 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 09:06:06.385381 >>> {command: get_health}
+2021-10-11 09:06:06.522395 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 09:06:06.536446 >>> {command: request_data, timeout: 1200000}
+2021-10-11 09:06:10.801864 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Increment Counter 1 time\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: web/icons/icon-192.png\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name:\\n  \\\"web/icons/icon-192.png\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#a0c02(), name: \\\"web/icons/icon-192.png\\\",\\n  scale: 1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 2 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: web/icons/icon-192.png\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name:\\n  \\\"web/icons/icon-192.png\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#a0c02(), name: \\\"web/icons/icon-192.png\\\",\\n  scale: 1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 3 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: web/icons/icon-192.png\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name:\\n  \\\"web/icons/icon-192.png\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#a0c02(), name: \\\"web/icons/icon-192.png\\\",\\n  scale: 1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 4 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: web/icons/icon-192.png\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name:\\n  \\\"web/icons/icon-192.png\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#a0c02(), name: \\\"web/icons/icon-192.png\\\",\\n  scale: 1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 09:11:02.960272 >>> {command: get_health}
+2021-10-11 09:11:03.079756 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 09:11:03.094618 >>> {command: request_data, timeout: 1200000}
+2021-10-11 09:11:06.924103 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Increment Counter 1 time\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: web/jci.jpg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"web/jci.jpg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#8d2ba(), name: \\\"web/jci.jpg\\\", scale: 1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 2 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: web/jci.jpg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"web/jci.jpg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#8d2ba(), name: \\\"web/jci.jpg\\\", scale: 1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 3 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: web/jci.jpg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"web/jci.jpg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#8d2ba(), name: \\\"web/jci.jpg\\\", scale: 1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 4 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: web/jci.jpg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"web/jci.jpg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#8d2ba(), name: \\\"web/jci.jpg\\\", scale: 1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 09:17:23.257233 >>> {command: get_health}
+2021-10-11 09:17:23.434404 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 09:17:23.450609 >>> {command: request_data, timeout: 1200000}
+2021-10-11 09:17:27.454059 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Increment Counter 1 time\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: assets/jci.jpeg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"assets/jci.jpeg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#b5d3f(), name: \\\"assets/jci.jpeg\\\", scale:\\n  1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 2 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: assets/jci.jpeg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"assets/jci.jpeg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#b5d3f(), name: \\\"assets/jci.jpeg\\\", scale:\\n  1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 3 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: assets/jci.jpeg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"assets/jci.jpeg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#b5d3f(), name: \\\"assets/jci.jpeg\\\", scale:\\n  1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 4 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: assets/jci.jpeg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"assets/jci.jpeg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#b5d3f(), name: \\\"assets/jci.jpeg\\\", scale:\\n  1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:07:32.382565 >>> {command: get_health}
+2021-10-11 15:07:32.656609 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:07:32.707169 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:07:46.802028 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:08:21.223802 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:08:22.678372 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:08:29.441961 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Increment Counter 1 time\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following ImageCodecException was thrown resolving an image\\ncodec:\\nFailed to load network image.\\nImage URL:\\nhttps://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\nTrying to load an image from another domain? Find answers at:\\nhttps://flutter.dev/docs/development/platform-integration/web-images\\n\\nWhen the exception was thrown, this was the stack\\n\\nImage provider:\\n  NetworkImage(\\\"https://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\\",\\n  scale: 1)\\nImage key:\\n  NetworkImage(\\\"https://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\\",\\n  scale: 1)\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}}
+2021-10-11 15:08:30.946638 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Increment Counter 1 time\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following ImageCodecException was thrown resolving an image\\ncodec:\\nFailed to load network image.\\nImage URL:\\nhttps://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\nTrying to load an image from another domain? Find answers at:\\nhttps://flutter.dev/docs/development/platform-integration/web-images\\n\\nWhen the exception was thrown, this was the stack\\n\\nImage provider:\\n  NetworkImage(\\\"https://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\\",\\n  scale: 1)\\nImage key:\\n  NetworkImage(\\\"https://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\\",\\n  scale: 1)\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}}
+2021-10-11 15:10:10.532213 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:10:13.759907 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Increment Counter 1 time\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following ImageCodecException was thrown resolving an image\\ncodec:\\nFailed to load network image.\\nImage URL:\\nhttps://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\nTrying to load an image from another domain? Find answers at:\\nhttps://flutter.dev/docs/development/platform-integration/web-images\\n\\nWhen the exception was thrown, this was the stack\\n\\nImage provider:\\n  NetworkImage(\\\"https://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\\",\\n  scale: 1)\\nImage key:\\n  NetworkImage(\\\"https://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\\",\\n  scale: 1)\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}}
+2021-10-11 15:12:05.049053 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:12:10.136873 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Increment Counter 1 time\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following ImageCodecException was thrown resolving an image\\ncodec:\\nFailed to load network image.\\nImage URL:\\nhttps://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\nTrying to load an image from another domain? Find answers at:\\nhttps://flutter.dev/docs/development/platform-integration/web-images\\n\\nWhen the exception was thrown, this was the stack\\n\\nImage provider:\\n  NetworkImage(\\\"https://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\\",\\n  scale: 1)\\nImage key:\\n  NetworkImage(\\\"https://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png?h=175&w=400&la=en&hash=BD13FF9939946B200825EE0159B69A1B5CE2C78E\\\",\\n  scale: 1)\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}}
+2021-10-11 15:12:10.806253 >>> {command: get_health}
+2021-10-11 15:12:11.001441 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:12:11.012575 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:12:20.809321 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:17:26.326586 >>> {command: get_health}
+2021-10-11 15:17:26.440248 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:17:26.452054 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:17:28.410367 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:17:30.831803 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Increment Counter 1 time\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: assets/jci.jpg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"assets/jci.jpg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#26e1a(), name: \\\"assets/jci.jpg\\\", scale:\\n  1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 2 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: assets/jci.jpg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"assets/jci.jpg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#26e1a(), name: \\\"assets/jci.jpg\\\", scale:\\n  1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 3 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: assets/jci.jpg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"assets/jci.jpg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#26e1a(), name: \\\"assets/jci.jpg\\\", scale:\\n  1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}","{\"methodName\":\"Increment Counter 4 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following assertion was thrown resolving an image codec:\\nUnable to load asset: assets/jci.jpg\\n\\nWhen the exception was thrown, this was the stack:\\n#0      PlatformAssetBundle.load (package:flutter/src/services/asset_bundle.dart:224:7)\\n<asynchronous suspension>\\n#1      AssetBundleImageProvider._loadAsync (package:flutter/src/painting/image_provider.dart:675:14)\\n<asynchronous suspension>\\n\\nImage provider: AssetImage(bundle: null, name: \\\"assets/jci.jpg\\\")\\nImage key: AssetBundleImageKey(bundle:\\n  PlatformAssetBundle#26e1a(), name: \\\"assets/jci.jpg\\\", scale:\\n  1.0)\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:17:31.715474 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 15:21:11.667558 >>> {command: get_health}
+2021-10-11 15:21:11.831369 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:21:11.862838 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:21:16.765977 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:21:36.199450 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:21:39.293040 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Increment Counter 2 times\",\"details\":\"══╡ EXCEPTION CAUGHT BY IMAGE RESOURCE SERVICE ╞═════════════════\\nThe following ImageCodecException was thrown resolving an image\\ncodec:\\nFailed to load network image.\\nImage URL:\\nhttps://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png\\nTrying to load an image from another domain? Find answers at:\\nhttps://flutter.dev/docs/development/platform-integration/web-images\\n\\nWhen the exception was thrown, this was the stack\\n\\nImage provider:\\n  NetworkImage(\\\"https://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png\\\",\\n  scale: 1)\\nImage key:\\n  NetworkImage(\\\"https://www.johnsoncontrols.com/-/media/jci/be/united-states/our-brands/final/johnson-controls.png\\\",\\n  scale: 1)\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}}
+2021-10-11 15:28:14.901311 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:28:21.028966 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 15:28:49.690639 >>> {command: get_health}
+2021-10-11 15:28:49.798034 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:28:49.806134 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:28:53.321361 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:44:40.877300 >>> {command: get_health}
+2021-10-11 15:44:41.094103 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:44:41.111018 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:44:59.535670 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:47:02.994367 >>> {command: get_health}
+2021-10-11 15:47:03.236001 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:47:03.255771 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:47:29.912319 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:48:08.549595 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:48:33.828689 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 15:50:26.100256 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:50:37.578510 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 15:58:28.479534 >>> {command: get_health}
+2021-10-11 15:58:28.592441 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:58:28.606570 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:58:29.804556 >>> {command: request_data, timeout: 1200000}
+2021-10-11 15:58:37.133828 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 15:58:37.878313 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 16:00:46.228615 >>> {command: get_health}
+2021-10-11 16:00:46.392065 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 16:00:46.409736 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:00:55.799016 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 16:01:48.769708 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:01:49.091095 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:01:57.712753 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 16:01:57.736123 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 16:04:06.814781 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:04:13.475038 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:04:14.701567 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 16:04:21.057333 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 16:06:22.370856 >>> {command: get_health}
+2021-10-11 16:06:22.722014 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 16:06:22.833118 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:06:37.095280 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 16:06:41.373902 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:06:52.285692 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 16:07:05.890397 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:07:13.884623 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 16:09:44.372611 >>> {command: get_health}
+2021-10-11 16:09:44.710687 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 16:09:44.808953 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:09:58.174158 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-11 16:10:29.137781 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:10:38.955613 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 16:10:42.135044 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:10:49.975079 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-11 16:18:10.383910 >>> {command: request_data, timeout: 1200000}
+2021-10-11 16:18:17.309443 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-12 08:21:18.832373 >>> {command: get_health}
+2021-10-12 08:21:19.013639 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 08:21:19.029257 >>> {command: request_data, timeout: 1200000}
+2021-10-12 08:21:19.251391 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 08:22:35.512029 >>> {command: get_health}
+2021-10-12 08:22:35.641038 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 08:22:35.650634 >>> {command: request_data, timeout: 1200000}
+2021-10-12 08:22:35.872959 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 08:25:38.130550 >>> {command: get_health}
+2021-10-12 08:25:38.395677 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 08:25:38.408585 >>> {command: request_data, timeout: 1200000}
+2021-10-12 08:25:38.634953 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 08:28:29.590540 >>> {command: get_health}
+2021-10-12 08:28:29.732553 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 08:28:29.744100 >>> {command: request_data, timeout: 1200000}
+2021-10-12 08:28:29.790367 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 08:34:10.517230 >>> {command: get_health}
+2021-10-12 08:34:10.623013 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 08:34:10.633245 >>> {command: request_data, timeout: 1200000}
+2021-10-12 08:34:13.878625 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 09:23:01.530813 >>> {command: get_health}
+2021-10-12 09:23:01.737287 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 09:23:01.768557 >>> {command: request_data, timeout: 1200000}
+2021-10-12 09:23:05.420891 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 09:24:14.622907 >>> {command: get_health}
+2021-10-12 09:24:14.757297 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 09:24:14.768291 >>> {command: request_data, timeout: 1200000}
+2021-10-12 09:24:18.692090 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-12 12:58:57.854746 >>> {command: request_data, timeout: 1200000}
+2021-10-12 12:59:05.730956 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-12 14:47:11.507613 >>> {command: request_data, timeout: 1200000}
+2021-10-12 14:47:19.881269 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-25 15:15:43.121403 >>> {command: request_data, timeout: 1200000}
+2021-10-25 15:15:50.052394 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-25 16:14:48.302634 >>> {command: request_data, timeout: 1200000}
+2021-10-25 16:14:56.406889 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-25 16:16:38.014655 >>> {command: request_data, timeout: 1200000}
+2021-10-25 16:16:45.879920 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-25 16:53:13.374654 >>> {command: request_data, timeout: 1200000}
+2021-10-25 16:53:21.414798 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-25 16:57:14.166065 >>> {command: request_data, timeout: 1200000}
+2021-10-25 16:57:20.951684 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-26 09:57:25.287546 >>> {command: request_data, timeout: 1200000}
+2021-10-26 09:57:33.596423 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-26 10:24:01.473592 >>> {command: request_data, timeout: 1200000}
+2021-10-26 10:24:10.425888 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-26 10:26:11.052953 >>> {command: request_data, timeout: 1200000}
+2021-10-26 10:26:18.848495 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-26 15:07:23.746457 >>> {command: request_data, timeout: 1200000}
+2021-10-26 15:07:33.607566 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-26 15:42:18.492533 >>> {command: request_data, timeout: 1200000}
+2021-10-26 15:42:26.457688 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-26 15:52:53.569552 >>> {command: request_data, timeout: 1200000}
+2021-10-26 15:53:15.425280 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-26 15:57:18.394141 >>> {command: request_data, timeout: 1200000}
+2021-10-26 15:57:25.797746 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-26 15:59:09.463983 >>> {command: request_data, timeout: 1200000}
+2021-10-26 15:59:15.136773 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-26 16:05:22.632523 >>> {command: request_data, timeout: 1200000}
+2021-10-26 16:07:15.606978 >>> {command: request_data, timeout: 1200000}
+2021-10-26 16:07:23.252815 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-26 16:15:36.274418 >>> {command: request_data, timeout: 1200000}
+2021-10-26 16:15:41.944635 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-27 08:20:08.893156 >>> {command: request_data, timeout: 1200000}
+2021-10-27 08:20:17.430154 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-27 08:23:43.160298 >>> {command: request_data, timeout: 1200000}
+2021-10-27 08:23:51.253721 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-27 08:26:22.038834 >>> {command: request_data, timeout: 1200000}
+2021-10-27 08:26:39.657814 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-27 08:30:16.036519 >>> {command: request_data, timeout: 1200000}
+2021-10-27 08:30:24.162956 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-27 08:41:07.904284 >>> {command: request_data, timeout: 1200000}
+2021-10-27 08:41:16.772180 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-27 08:43:18.096962 >>> {command: request_data, timeout: 1200000}
+2021-10-27 08:43:25.824145 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-28 10:42:24.873348 >>> {command: get_health}
+2021-10-28 10:42:25.289018 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-28 10:42:25.334344 >>> {command: request_data, timeout: 1200000}
+2021-10-28 10:42:34.173924 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-28 10:50:22.633708 >>> {command: get_health}
+2021-10-28 10:50:22.885853 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-28 10:50:22.911504 >>> {command: request_data, timeout: 1200000}
+2021-10-28 10:50:32.003739 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-28 10:52:39.372451 >>> {command: request_data, timeout: 1200000}
+2021-10-28 10:52:47.975303 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-28 11:25:36.096547 >>> {command: request_data, timeout: 1200000}
+2021-10-28 11:25:45.220057 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
+2021-10-28 15:28:19.106653 >>> {command: get_health}
+2021-10-28 15:28:19.342898 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-10-28 15:28:19.364359 >>> {command: request_data, timeout: 1200000}
+2021-10-28 15:28:29.359594 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}, type: _extensionType, method: ext.flutter.driver}
+2021-10-28 15:34:50.483821 >>> {command: request_data, timeout: 1200000}
+2021-10-28 15:34:58.635106 <<< {isError: false, response: {message: {"result":"true","failureDetails":[]}}}
